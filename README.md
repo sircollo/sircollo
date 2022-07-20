@@ -9,4 +9,6 @@ I'm a motivated developer, great team work memeber and a fast learner. I can wor
 - ⚡ Fun fact: I learnt programming for my electronics harware project.
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sircollo &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sircollo&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sircollo&layout=compact&hide=javascript,html)](https://github.com/sircollo/github-readme-stats)
