@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm Collins
+
+I'm a motivated developer, great team work memeber and a fast learner. I can work in a supervised and unsupervised environment efficiently and meet the deadlines. I'm also an expert in electronics hardware design, fabrication and maintenance.
+
 - 🔭 I’m currently working on awesome projects
 - 🌱 I’m currently learning React
 - 💬 Ask me about anything related to Angular/Flask/Django/Python/JTypescript or Javascript
@@ -6,17 +9,4 @@
 - ⚡ Fun fact: I learnt programming for my electronics harware project.
 
 
-<!--
-**sircollo/sircollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sircollo &theme=radical)
