@@ -4,7 +4,7 @@ I'm a motivated developer, great team work memeber and a fast learner. I can wor
 
 - 🔭 I’m currently working on awesome projects
 - 🌱 I’m currently learning React
-- 💬 Ask me about anything related to Angular/Flask/Django/Python/JTypescript or Javascript
+- 💬 Ask me about anything related to Angular/Flask/Django/Python/Typescript or Javascript
 - 📫 How to reach me: sircollo71@gmail.com
 - ⚡ Fun fact: I learnt programming for my electronics harware project.
 
