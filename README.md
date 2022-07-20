@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Collins
 
-I'm a motivated developer, great team work memeber and a fast learner. I can work in a supervised and unsupervised environment efficiently and meet the deadlines. I'm also an expert in electronics hardware design, fabrication and maintenance.
+I'm a motivated developer, great team player and a fast learner. I can work in a supervised and unsupervised environment efficiently and meet the deadlines. I'm also an expert in electronics hardware design, fabrication and maintenance.
 
 - 🔭 I’m currently working on awesome projects
 - 🌱 I’m currently learning React
